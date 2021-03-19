@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>사용자 정의 속성 -2</title>
+  </head>
+  <body>
+    <company location = "seoul">Phantester<br>
+      <department title = "보안 부서">
+        <a href = "#mem1">보안부</a>
+      </department><br>
+      <department title = "개발 부서">
+        <a href = "#mem2">개발부</a>
+      <department title = "기획 부서">
+        <a href = "#mem3">기획부</a>
+      </department><br>
+    </company>
+  </body>
+</html>
